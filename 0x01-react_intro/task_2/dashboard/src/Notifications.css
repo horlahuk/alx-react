@@ -1,4 +1,24 @@
 .Notifications {
-    border: 2px solid #e1484c;
+    border: 2px dashed #e1484c;
     padding: 20px;
+}
+
+.Notifications p {
+    margin-bottom: 5px;
+}
+
+.Notifications li {
+    margin: 5px;
+}
+
+.Notifications li:first-child {
+    color: blue;
+}
+
+.Notifications li:nth-child(2) {
+    color: red;
+}
+
+.Notifications li:last-child {
+    color: red;
 }
