@@ -1,0 +1,25 @@
+/* .App-header {
+	font-size: var(--heading-font-size);
+	color: var(--brand-color);
+	display: flex;
+	align-items: center;
+	padding: var(--padding);
+	border-bottom: var(--border-bottom);
+}
+
+.App-header img {
+	width: 250px;
+	height: 250px;
+} */
+
+.App-header {
+  font-size: 1.4rem;
+  color: #e0354b;
+  display: flex;
+  align-items: center;
+}
+
+.App-header img {
+  width: 200px;
+  height: 200px;
+}
